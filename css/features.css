@@ -1,0 +1,20 @@
+.features {
+}
+.sr-only {
+  border: 0;
+  white-space: nowrap;
+  clip: rect(0 0 0 0);
+  overflow: hidden;
+}
+.features-list {
+}
+.features-item {
+}
+.features-caption {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+}
+.features-descr {
+  color: #434455;
+}
