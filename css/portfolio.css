@@ -1,4 +1,5 @@
 .portfolio {
+  padding: 120px 0;
 }
 .portfolio-tite {
   font-weight: 700;
@@ -8,16 +9,23 @@
   color: #2e2f42;
 }
 .portfolio-link {
+  padding: 72px;
+  display: flex;
+  justify-content: center;
+  gap: 24px;
 }
 .portfolio-item {
 }
 .portfolio-ill {
 }
 .portfolio-type {
+  margin: 32px 0px 8px 0px;
+  margin-bottom: 8px;
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
 }
 .portfolio-descr {
+  margin-bottom: 32px;
   color: #434455;
 }

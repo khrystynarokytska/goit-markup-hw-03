@@ -1,8 +1,11 @@
 .footer {
+  padding: 100px 0;
   background-color: #2e2f42;
 }
+
 .footer-logo {
-  font-family: 'Raleway', sans-serif;
+  margin-bottom: 16px;
+  font-family: "Raleway", sans-serif;
   text-decoration: none;
   font-weight: 700;
   font-size: 18px;

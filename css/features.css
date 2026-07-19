@@ -1,16 +1,17 @@
 .features {
+  padding: 120px 0;
 }
-.sr-only {
-  border: 0;
-  white-space: nowrap;
-  clip: rect(0 0 0 0);
-  overflow: hidden;
-}
+
 .features-list {
+  display: flex;
+  justify-content: center;
+  gap: 24px;
 }
 .features-item {
+  width: 264px;
 }
 .features-caption {
+  margin-bottom: 8px;
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;

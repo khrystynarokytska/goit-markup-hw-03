@@ -1,18 +1,34 @@
 .hero {
-  background: #2e2f42;
+}
+.hero-wrapper {
+  padding: 180px 0;
+  background-color: #2e2f42;
 }
 .hero-title {
+  max-width: 496px;
+  margin: 0 auto 48px;
+  margin-bottom: 48px;
   font-weight: 700;
   font-size: 56px;
   line-height: 1.07;
   text-align: center;
   color: #fff;
 }
+
 .hero-btn {
+  display: block;
+  margin: 0 auto;
+
+  width: 169px;
+  height: 56px;
+
   font-weight: 500;
   letter-spacing: 0.04em;
   color: #fff;
   background-color: #4d5ae5;
+  border-radius: 4px;
+  padding-block: 16px;
+  border: 1px solid transparent;
 }
 
 .hero-btn:hover,
