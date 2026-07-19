@@ -1,11 +1,12 @@
 .header {
-  padding: 24px 0;
   border-bottom: 1px solid #e7e9fc;
 }
 .header > .container {
   display: flex;
+  align-items: center;
 }
 .logo {
+  margin-right: 76px;
   display: flex;
   align-items: center;
   gap: 0px;
@@ -23,7 +24,6 @@
 }
 .header-nav {
   margin-left: 76px;
-  margin-right: 340px;
 }
 .header-list {
   display: flex;
@@ -42,6 +42,7 @@
   color: #404bbf;
 }
 .header-address {
+  margin-left: auto;
 }
 .header-address-list {
   display: flex;
