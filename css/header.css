@@ -9,7 +9,6 @@
   margin-right: 76px;
   display: flex;
   align-items: center;
-  gap: 0px;
 
   font-family: "Raleway", sans-serif;
   text-decoration: none;
@@ -23,7 +22,6 @@
   color: #4d5ae5;
 }
 .header-nav {
-  margin-left: 76px;
 }
 .header-list {
   display: flex;
