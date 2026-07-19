@@ -45,3 +45,8 @@ button {
   clip-path: inset(100%);
   margin: -1px;
 }
+.container {
+  width: 1158px;
+  padding: 0 14px;
+  margin: 0 auto;
+}

@@ -9,25 +9,28 @@
   text-align: center;
 }
 .team-link {
-  padding: 72px;
   display: flex;
   justify-content: center;
   gap: 24px;
+  margin-top: 72px;
 }
 .team-item {
   background-color: #ffffff;
+  border-radius: 0 0 4px 4px;
 }
 .team-ill {
 }
 .team-caption {
-  margin: 32px 0px 8px 0px;
+  margin-bottom: 8px;
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
   text-align: center;
 }
 .team-descr {
-  margin-bottom: 32px;
   text-align: center;
   color: #434455;
+}
+.team-wrapper {
+  padding: 32px 16px;
 }
